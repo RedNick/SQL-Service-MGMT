@@ -4,10 +4,11 @@
 	Starts and enables automatic startup for previously stopped SQL services.
 .DESCRIPTION
 	Uses list from .\running-SQL.csv
-.Notes
+.NOTES
 	Author: Nicolas Redfern
 	Date: 2026-04-30
 	Version: 1.0
+	No AI was used in the creation of this script.
 .LINK
 	Use Disable-SQL.ps1 to disable SQL services
 #>
