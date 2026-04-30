@@ -4,10 +4,11 @@
 	List all running SQL services, saves a list of them, then stops and disables startup 
 .DESCRIPTION
 	Saves list of running SQL services to .\running-SQL.csv
-.Notes
+.NOTES
 	Author: Nicolas Redfern
 	Date: 2026-04-30
 	Version: 1.0
+	No AI was used in the creation of this script.
 .LINK
 	Use Enable-SQL.ps1 to re-enable SQL services
 #>
